@@ -4,11 +4,11 @@ This package is a simple PHP library for reading ONIX 3.0 files in the general f
 __This package is currently under development. Although most fields should be detected and parsed by the library, some fields still need more work.__
 
 ## Installation
-PHP 7.1 or greater is required.
+PHP >=8.1
 
 Installation is recommended to be done via composer by running:
 ```
-composer require ribal/onix
+composer require dominservice/onix-parser
 ```
 
 ## Usage
