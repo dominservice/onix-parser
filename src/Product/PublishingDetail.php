@@ -1,10 +1,10 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList46;
-use Ribal\Onix\CodeList\CodeList64;
-use Ribal\Onix\CodeList\CodeList91;
+use Dso\Onix\CodeList\CodeList46;
+use Dso\Onix\CodeList\CodeList64;
+use Dso\Onix\CodeList\CodeList91;
 
 class PublishingDetail
 {

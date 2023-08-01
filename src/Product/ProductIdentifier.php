@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList5;
+use Dso\Onix\CodeList\CodeList5;
 
 class ProductIdentifier
 {

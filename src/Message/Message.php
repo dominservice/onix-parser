@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Message;
+namespace Dso\Onix\Message;
 
-use Ribal\Onix\Message\Header as Header;
-use Ribal\Onix\Product\Product;
+use Dso\Onix\Message\Header as Header;
+use Dso\Onix\Product\Product;
 use Doctrine\Common\Annotations\Annotation\Attribute;
 
 class Message

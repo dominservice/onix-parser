@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList149;
-use Ribal\Onix\TextNode;
+use Dso\Onix\CodeList\CodeList149;
+use Dso\Onix\TextNode;
 
 class TitleElement
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix;
+namespace Dso\Onix;
 
-use Ribal\Onix\Exception\InvalidTextFormatException;
+use Dso\Onix\Exception\InvalidTextFormatException;
 
 class Text
 {

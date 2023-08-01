@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace RiDsobal\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList17;
-use Ribal\Onix\Text;
+use Dso\Onix\CodeList\CodeList17;
+use Dso\Onix\Text;
 
 class Contributor
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList154;
-use Ribal\Onix\CodeList\CodeList158;
-use Ribal\Onix\CodeList\CodeList159;
+use Dso\Onix\CodeList\CodeList154;
+use Dso\Onix\CodeList\CodeList158;
+use Dso\Onix\CodeList\CodeList159;
 
 class SupportingResource
 {

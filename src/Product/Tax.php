@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList62;
-use Ribal\Onix\CodeList\CodeList171;
+use Dso\Onix\CodeList\CodeList62;
+use Dso\Onix\CodeList\CodeList171;
 
 class Tax
 {

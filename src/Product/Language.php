@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList22;
-use Ribal\Onix\CodeList\CodeList74;
+use Dso\Onix\CodeList\CodeList22;
+use Dso\Onix\CodeList\CodeList74;
 
 class Language
 {

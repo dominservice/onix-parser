@@ -16,14 +16,14 @@ To parse an ONIX message in XML format, a new parser is instantiated. The XML fi
 
 ```php
 
-$parser = new \Ribal\Onix\Parser();
+$parser = new \Dso\Onix\Parser();
 
-/** @var Ribal\Onix\Message\Message; */
+/** @var Dso\Onix\Message\Message; */
 $message = $parser->parseString(
     file_get_contents('sample.xml')
 );
 
-/** @var Ribal\Onix\Product\Product[] */
+/** @var Dso\Onix\Product\Product[] */
 $products = $message->getProducts();
 ```
 
@@ -70,7 +70,7 @@ To use a specific language, just pass the language code as argument in the parse
 
 ```php
 // Create parser using german code list values
-$parser = new \Ribal\Onix\Parser('de');
+$parser = new \Dso\Onix\Parser('de');
 ```
 
 ## Measurements ##
@@ -89,7 +89,7 @@ foreach ($descriptiveDetail->getMeasures() as $measure) {
 ```
 Using shorthand functions you can also search for measurements of type height, width, thickness or weight:
 ```php
-/** @var Ribal\Onix\Product\Measure */
+/** @var Dso\Onix\Product\Measure */
 $height = $descriptiveDetail->getHeight();
 $width = $descriptiveDetail->getWidth();
 $thickness = $descriptiveDetail->getThickness();

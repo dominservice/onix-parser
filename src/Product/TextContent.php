@@ -1,11 +1,11 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList153;
-use Ribal\Onix\CodeList\CodeList154;
-use Ribal\Onix\Text;
-use Ribal\Onix\TextNode;
+use Dso\Onix\CodeList\CodeList153;
+use Dso\Onix\CodeList\CodeList154;
+use Dso\Onix\Text;
+use Dso\Onix\TextNode;
 
 class TextContent
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
 class Discount
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Normalizer;
+namespace Dso\Onix\Normalizer;
 
-use Ribal\Onix\Text;
+use Dso\Onix\Text;
 use Symfony\Component\Serializer\Encoder\XmlEncoder;
 use Symfony\Component\Serializer\Normalizer\DenormalizerInterface;
 use Symfony\Component\Serializer\Normalizer\NormalizerInterface;

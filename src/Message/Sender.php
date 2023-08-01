@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Message;
+namespace Dso\Onix\Message;
 
-use Ribal\Onix\XmlIterator;
+use Dso\Onix\XmlIterator;
 
 class Sender
 {

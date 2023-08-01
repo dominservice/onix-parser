@@ -1,10 +1,10 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList154;
-use Ribal\Onix\CodeList\CodeList156;
-use Ribal\Onix\CodeList\CodeList157;
+use Dso\Onix\CodeList\CodeList154;
+use Dso\Onix\CodeList\CodeList156;
+use Dso\Onix\CodeList\CodeList157;
 
 class CitedContent
 {

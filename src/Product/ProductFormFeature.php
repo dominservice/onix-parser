@@ -1,11 +1,11 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList220;
-use Ribal\Onix\CodeList\CodeList79;
-use Ribal\Onix\CodeList\CodeList98;
-use Ribal\Onix\CodeList\CodeList220;
+use Dso\Onix\CodeList\CodeList220;
+use Dso\Onix\CodeList\CodeList79;
+use Dso\Onix\CodeList\CodeList98;
+//use Dso\Onix\CodeList\CodeList220;
 
 class ProductFormFeature
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ribal\Onix\CodeList;
+namespace Dso\Onix\CodeList;
 
 /**
  * ONIX Code List 253

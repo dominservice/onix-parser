@@ -1,12 +1,12 @@
 <?php
 
-namespace Ribal\Onix;
+namespace Dso\Onix;
 
-use Ribal\Onix\Message\Message;
-use Ribal\Onix\Normalizer\CodeListNormalizer;
-use Ribal\Onix\Normalizer\DateNormalizer;
-use Ribal\Onix\Normalizer\ShortTagNameConverter;
-use Ribal\Onix\Normalizer\TextNormalizer;
+use Dso\Onix\Message\Message;
+use Dso\Onix\Normalizer\CodeListNormalizer;
+use Dso\Onix\Normalizer\DateNormalizer;
+use Dso\Onix\Normalizer\ShortTagNameConverter;
+use Dso\Onix\Normalizer\TextNormalizer;
 use Symfony\Component\PropertyInfo\Extractor\ReflectionExtractor;
 use Symfony\Component\Serializer\Encoder\XmlEncoder;
 use Symfony\Component\Serializer\Normalizer\ArrayDenormalizer;

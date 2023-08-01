@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList16;
+use Dso\Onix\CodeList\CodeList16;
 
 class WorkIdentifier
 {

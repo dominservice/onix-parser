@@ -1,6 +1,6 @@
 <?php
 
-namespace Ribal\Onix;
+namespace Dso\Onix;
 
 use DOMCdataSection;
 use DOMNode;

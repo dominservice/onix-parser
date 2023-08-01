@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList155;
-use Ribal\Onix\Date;
+use Dso\Onix\CodeList\CodeList155;
+use Dso\Onix\Date;
 
 class ContentDate
 {

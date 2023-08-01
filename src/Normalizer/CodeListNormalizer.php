@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Normalizer;
+namespace Dso\Onix\Normalizer;
 
-use Ribal\Onix\CodeList\CodeList;
+use Dso\Onix\CodeList\CodeList;
 use Symfony\Component\Serializer\Normalizer\DenormalizerInterface;
 use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
 

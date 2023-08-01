@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\CodeList;
+namespace Dso\Onix\CodeList;
 
-use Ribal\Onix\Exception\InvalidCodeListCodeException;
-use Ribal\Onix\Exception\InvalidCodeListLanguageException;
+use Dso\Onix\Exception\InvalidCodeListCodeException;
+use Dso\Onix\Exception\InvalidCodeListLanguageException;
 
 class CodeList
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Message;
+namespace Dso\Onix\Message;
 
-use Ribal\Onix\Date;
+use Dso\Onix\Date;
 
 class Header
 {

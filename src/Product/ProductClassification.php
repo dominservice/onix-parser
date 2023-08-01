@@ -1,8 +1,8 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList9;
+use Dso\Onix\CodeList\CodeList9;
 
 class ProductClassification
 {

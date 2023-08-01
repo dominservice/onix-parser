@@ -1,12 +1,12 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList2;
-use Ribal\Onix\CodeList\CodeList81;
-use Ribal\Onix\CodeList\CodeList91;
-use Ribal\Onix\CodeList\CodeList150;
-use Ribal\Onix\CodeList\CodeList175;
+use Dso\Onix\CodeList\CodeList2;
+use Dso\Onix\CodeList\CodeList81;
+use Dso\Onix\CodeList\CodeList91;
+use Dso\Onix\CodeList\CodeList150;
+use Dso\Onix\CodeList\CodeList175;
 
 class DescriptiveDetail
 {

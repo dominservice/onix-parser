@@ -1,6 +1,6 @@
 <?php
 
-namespace Ribal\Onix\Normalizer;
+namespace Dso\Onix\Normalizer;
 
 use Symfony\Component\Serializer\NameConverter\NameConverterInterface;
 
@@ -458,7 +458,7 @@ class ShortTagNameConverter implements NameConverterInterface
      * @param string $propertyName
      * @return string
      */
-    public function normalize($propertyName)
+    public function normalize($propertyName): string
     {
         return ($key = array_search($propertyName, self::$shortToRef)) ?
             $key : $propertyName;
@@ -471,7 +471,7 @@ class ShortTagNameConverter implements NameConverterInterface
      * @param string $propertyName
      * @return string
      */
-    public function denormalize($propertyName)
+    public function denormalize($propertyName): string
     {
         return array_key_exists($propertyName, self::$shortToRef) ?
             self::$shortToRef[$propertyName] : $propertyName;

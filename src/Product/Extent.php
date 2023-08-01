@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList23;
-use Ribal\Onix\CodeList\CodeList24;
+use Dso\Onix\CodeList\CodeList23;
+use Dso\Onix\CodeList\CodeList24;
 
 class Extent
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Normalizer;
+namespace Dso\Onix\Normalizer;
 
-use Ribal\Onix\CodeList\CodeList55;
-use Ribal\Onix\Date;
+use Dso\Onix\CodeList\CodeList55;
+use Dso\Onix\Date;
 use Symfony\Component\Serializer\Normalizer\DenormalizerInterface;
 use Symfony\Component\Serializer\Normalizer\NormalizerInterface;
 

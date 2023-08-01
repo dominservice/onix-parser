@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix;
+namespace Dso\Onix;
 
-use Ribal\Onix\CodeList\CodeList;
-use Ribal\Onix\CodeList\CodeList55;
+use Dso\Onix\CodeList\CodeList;
+use Dso\Onix\CodeList\CodeList55;
 use DateTime;
 
 class Date

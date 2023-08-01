@@ -1,12 +1,12 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList142;
-use Ribal\Onix\CodeList\CodeList174;
-use Ribal\Onix\CodeList\CodeList58;
-use Ribal\Onix\CodeList\CodeList61;
-use Ribal\Onix\CodeList\CodeList96;
+use Dso\Onix\CodeList\CodeList142;
+use Dso\Onix\CodeList\CodeList174;
+use Dso\Onix\CodeList\CodeList58;
+use Dso\Onix\CodeList\CodeList61;
+use Dso\Onix\CodeList\CodeList96;
 
 class Price
 {

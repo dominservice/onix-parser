@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList1;
-use Ribal\Onix\CodeList\CodeList3;
+use Dso\Onix\CodeList\CodeList1;
+use Dso\Onix\CodeList\CodeList3;
 
 class Product
 {
@@ -241,7 +241,7 @@ class Product
     /**
      * Get the Notification Type
      *
-     * @return \Ribal\Onix\Code
+     * @return \Dso\Onix\Code
      */
     public function getNotificationType()
     {

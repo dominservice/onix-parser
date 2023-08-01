@@ -1,9 +1,9 @@
 <?php
 
-namespace Ribal\Onix\Product;
+namespace Dso\Onix\Product;
 
-use Ribal\Onix\CodeList\CodeList163;
-use Ribal\Onix\Date;
+use Dso\Onix\CodeList\CodeList163;
+use Dso\Onix\Date;
 
 class MarketDate
 {
@@ -18,7 +18,7 @@ class MarketDate
     /**
      * Date
      *
-     * @var \Ribal\Onix
+     * @var \Dso\Onix
      */
     protected $Date;
 
